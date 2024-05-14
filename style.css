@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  div {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    margin-top: 20px;
+  }
+  
+  p {
+    margin: 5px 0;
+    color: #333;
+  }
+  
+  #ratings p {
+    font-weight: bold;
+}
